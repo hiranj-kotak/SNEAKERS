@@ -4,7 +4,14 @@
 <p align="center">
   <img src="https://img.shields.io/github/issues/hiranj-kotak/sneakers" alt="shields">
   <img src="https://img.shields.io/github/forks/hiranj-kotak/sneakers" alt="shields">
-  <img src="https://img.shields.io/github/stars/hiranj-kotak/sneakers" alt="shields"></p>
+  <img src="https://img.shields.io/github/stars/hiranj-kotak/sneakers" alt="shields">
+  <img src="https://img.shields.io/github/stars/hiranj-kotak/sneakers" alt="shields">
+  <img src = "https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg", alt = "shields">
+  <img src = "https://badges.frapsoft.com/os/v2/open-source.svg?v=103", alt = "shields">
+  <img src = "https://img.shields.io/badge/PRs-welcome-green.svg", alt = "shields">
+  <a href="https://github.com/hiranj-kotak/sneakers"><img src="https://sloc.xyz/github/hiranj-kotak/sneakers" alt="Lines of Code"/></a>
+
+</p>
 
   
 <p id="description">Welcome to <b>Sneakers</b>, an open-source Flutter application that allows users to compare the prices of sneakers across different websites in India. The goal is to help users find the best deals on their favorite sneakers by providing a simple and efficient comparison tool.</p>
