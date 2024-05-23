@@ -1,11 +1,14 @@
 <h1 align="center" id="title">Sneakers</h1>
 
-<p id="description">Welcome to <b>Sneakers</b>, an open-source Flutter application that allows users to compare the prices of sneakers across different websites in India. The goal is to help users find the best deals on their favorite sneakers by providing a simple and efficient comparison tool.</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/issues/hiranj-kotak/sneakers" alt="shields">
   <img src="https://img.shields.io/github/forks/hiranj-kotak/sneakers" alt="shields">
   <img src="https://img.shields.io/github/stars/hiranj-kotak/sneakers" alt="shields"></p>
+
+  
+<p id="description">Welcome to <b>Sneakers</b>, an open-source Flutter application that allows users to compare the prices of sneakers across different websites in India. The goal is to help users find the best deals on their favorite sneakers by providing a simple and efficient comparison tool.</p>
+
 
 
 <h2> Getting Started </h2>
@@ -15,7 +18,7 @@ To get started with the **Learn** app, follow these simple steps :
 ### Clone the Git Repository
 
 ```bash
-git clone https://github.com/VaibhavCodeClub/learn
+git clone https://github.com/hiranj-kotak/sneakers
 ```
 ### Run the Flutter Project
 
